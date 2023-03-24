@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "FordAPI": {
+    "FordInternHW1": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
